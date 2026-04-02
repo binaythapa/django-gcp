@@ -1,0 +1,70 @@
+# ==================================================
+# Python / Django cache
+# ==================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ==================================================
+# Virtual environments
+# ==================================================
+env/
+venv/
+ENV/
+venv_bkp/
+
+# ==================================================
+# Django static & media (BUILD OUTPUT ONLY)
+# ==================================================
+staticfiles/
+staticfiles/**
+media/
+
+# ==================================================
+# Logs & runtime files
+# ==================================================
+*.log
+log/
+outbound/
+index/
+
+# ==================================================
+# Temporary / local data files
+# ==================================================
+*.sqlite3
+question.json
+
+# ==================================================
+# IDE / Editor
+# ==================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==================================================
+# OS files
+# ==================================================
+.DS_Store
+Thumbs.db
+
+# ==================================================
+# Frontend / Node (if used)
+# ==================================================
+node_modules/
+dist/
+build/
+
+
+.env
+objective_exam/__init__.py
+questions1.pdf
+questions2.pdf
+objective_exam/__init__.py
+objective_exam/__init__.py
+questions3.pdf
+questions4.pdf
+questions6.pdf
+questions5.pdf
